@@ -1,8 +1,0 @@
-.bundle
-*.sqlite3
-*.log
-log
-spec/dummy/log
-spec/dummy/tmp
-spec/dummy/.env
-spec/dummy/db
